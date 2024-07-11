@@ -1,4 +1,4 @@
--- S2:Q2
+-- Q7
 --lets invite the artist who have write the most rock music 
 --in our dataset write a query that return the artist name and the total track count of the top 10
 --rock band 
