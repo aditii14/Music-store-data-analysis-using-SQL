@@ -1,4 +1,4 @@
--- S2:Q1
+-- Q6
 -- write query to return the email, first name ,last name & genre of all the rock
 -- music listner . return your list order alphabetically by email starting with A
 select distinct first_name,last_name,email
