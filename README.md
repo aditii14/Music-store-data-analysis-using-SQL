@@ -12,8 +12,8 @@ This project is to analyze the data from an online music store to gain insights 
 ## Schema- Music Store Database 
 ![MusicDatabaseSchema](https://user-images.githubusercontent.com/112153548/213707717-bfc9f479-52d9-407b-99e1-e94db7ae10a3.png)
 
-
-## Queries that I have performed
+## Analysis
+**Queries that I have performed**
 1. Who is the senior most employee based on job title?
 2. Which countries have the most Invoices?
 3. What are top 3 values of total invoice?
