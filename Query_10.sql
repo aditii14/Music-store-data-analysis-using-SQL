@@ -1,4 +1,4 @@
---S3:Q2
+--Q10
 -- we want to find out the ost popular music genre for each country
 -- we determine the most popular genre as the genre as the genre with the highest
 -- amount of purchases.write a query that return each that return each country along with
