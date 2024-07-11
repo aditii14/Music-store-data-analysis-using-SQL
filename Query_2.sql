@@ -1,4 +1,4 @@
---S1:Q2
+--Q2
 -- which countries have the most invoices?
 select count(*) ,billing_country 
 from invoice
