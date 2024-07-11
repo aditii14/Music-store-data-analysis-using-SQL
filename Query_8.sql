@@ -1,4 +1,4 @@
---S3:Q1
+--Q8
 --find how much amount spent by each customer on artist ?
 -- write a query to return customer name ,artist name and total spent
 with best_selling_artist as(
