@@ -1,4 +1,4 @@
---S1:Q5
+--Q5
 -- who is the best customer ? the customer who has spent the most
 -- money will be declared the best customer. write the query that returns
 --the person who spent the most money
