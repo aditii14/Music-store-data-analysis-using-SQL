@@ -1,4 +1,4 @@
---S1:Q4
+--Q4
 --which city has the best customer? we should like to throw a
 --promotion music festival in the city we made the most money .write a 
 --query that returns one city that has the highest sum of invoice total
